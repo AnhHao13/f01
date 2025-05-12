@@ -1,16 +1,5 @@
-# bai1flut
+![Screenshot (1910)](https://github.com/user-attachments/assets/236281d6-fcab-4d5d-abad-d6520f626521)
 
-A new Flutter project.
+![Screenshot (1911)](https://github.com/user-attachments/assets/8a0ede07-e7fe-408b-8958-61eb301b88b2)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
